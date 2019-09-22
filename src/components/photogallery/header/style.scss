@@ -1,0 +1,12 @@
+
+.mobileMenu{
+    float: right;
+    background-color: #000;
+    font-size: xx-large;
+    margin: 5px;
+}
+@media (min-width: 768px) {
+    .mobileMenu{
+        display: none;
+    }
+}

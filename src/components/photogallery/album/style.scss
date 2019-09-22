@@ -1,0 +1,10 @@
+.albumText{
+    margin: auto;
+    padding: 25% 0; 
+}
+@media (max-width: 768px){
+    .albumText{
+        padding-top: 1px; 
+        padding-bottom: 1px; 
+    }
+}
